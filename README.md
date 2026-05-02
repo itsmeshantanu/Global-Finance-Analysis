@@ -1,6 +1,6 @@
 # 🌍 Global Finance Data Analytics Dashboard
 
-A Power BI report analyzing macroeconomic performance, purchasing power parity, debt risk, and fiscal health across 75 countries** using IMF & World Bank data (FY 2024–25).
+A Power BI report analyzing macroeconomic performance, purchasing power parity, debt risk, and fiscal health across 75 countries, using IMF & World Bank data (FY 2024–25).
 
 * Tools: Power BI, DAX, Power Query  
 * Pages: Economic Snapshot · PPP & Cost of Living · Debt & Fiscal Health  
